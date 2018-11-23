@@ -3,7 +3,7 @@ package it.sevenbits;
 import java.io.*;
 
 public class FileWorks {
-    public File function(File directory){
+    public File getFileInformation(File directory){
         File file = new File("test.txt");
         try(BufferedWriter bw = new BufferedWriter(new FileWriter(file))) {
             file.createNewFile();
