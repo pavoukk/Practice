@@ -1,0 +1,3 @@
+test.txt file can write: true can read: true can execute: false /home/tatiana/IdeaProjects/Practice/workshopthree/src/main/java/files/test.txt
+bin.txt file can write: true can read: true can execute: false /home/tatiana/IdeaProjects/Practice/workshopthree/src/main/java/files/bin.txt
+dat.txt file can write: true can read: true can execute: false /home/tatiana/IdeaProjects/Practice/workshopthree/src/main/java/files/dat.txt
