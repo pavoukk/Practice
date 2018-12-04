@@ -1,0 +1,9 @@
+/home/tatiana/IdeaProjects/Practice/Practic4/src/main/java/it/sevenbits/exceptions/UniqueStorageException.java
+/home/tatiana/IdeaProjects/Practice/Practic4/src/main/java/it/sevenbits/storages/IUniqueStorage.java
+/home/tatiana/IdeaProjects/Practice/Practic4/src/main/java/it/sevenbits/exceptions/FixedStorageException.java
+/home/tatiana/IdeaProjects/Practice/Practic4/src/main/java/it/sevenbits/storages/IFixedStorage.java
+/home/tatiana/IdeaProjects/Practice/Practic4/src/main/java/it/sevenbits/main/Main.java
+/home/tatiana/IdeaProjects/Practice/Practic4/src/main/java/it/sevenbits/Planet.java
+/home/tatiana/IdeaProjects/Practice/Practic4/src/main/java/it/sevenbits/Pair.java
+/home/tatiana/IdeaProjects/Practice/Practic4/src/main/java/it/sevenbits/storages/PlanetFixedStorage.java
+/home/tatiana/IdeaProjects/Practice/Practic4/src/main/java/it/sevenbits/storages/PlanetUniqueStorage.java
